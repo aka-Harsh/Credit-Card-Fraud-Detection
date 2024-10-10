@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-🛠️ This credit card fraud detection system uses various models, such as **Isolation Forest, Local Outlier Factor, and Support Vector Machine**, to identify fraudulent transactions within the provided dataset. It then compares their performance using accuracy and confusion metrics.<br>
+🛠️ This credit card fraud detection system uses various models, such as **Isolation Forest, Local Outlier Factor, Support Vector Machine, K-Mean, Logistic Regression, and CNN**, to identify fraudulent transactions within the provided dataset. It then compares their performance using classification report, ROC-AUC curve, and confusion metrics.<br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -9,7 +9,7 @@
 
 ## Prerequisites
 
-🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 ## Deployment
 
@@ -26,7 +26,7 @@ Change to the cloned repository's directory using
 
 Open the jupyter notebook using:
 ```bash
-  !jupyter notebook Fraud_Detection.ipynb
+  !jupyter notebook notebook_name.ipynb
 ```
 
 Install all the required packages 
