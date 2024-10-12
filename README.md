@@ -39,11 +39,22 @@ Finally **Run** all the cells of the jupyter notebook
 
 ## Project Outlook
 <br>
+1. Logistic Regression
 
-![Screenshot 2024-09-25 172827](https://github.com/user-attachments/assets/fb25bb6f-fcb9-44fb-bdd8-73404d690ace)
+![Screenshot 2024-10-12 124330](https://github.com/user-attachments/assets/6928c8f8-4793-4a65-8adf-d29031471ea5)
+![Screenshot 2024-10-12 124350](https://github.com/user-attachments/assets/174818e6-9912-4a51-b8b7-1fc4f4cd9b1e)
 
-![Screenshot 2024-09-25 172842](https://github.com/user-attachments/assets/e5246fcb-4a20-4cc0-83ca-873577cbf6cb)
-![Screenshot 2024-09-25 172855](https://github.com/user-attachments/assets/215cd330-7a5b-42c7-b5d1-4bcb94fd883b)
-![Screenshot 2024-09-25 173044](https://github.com/user-attachments/assets/ee032a9b-e3c3-42e7-8db5-f4d643620691)
-![Screenshot 2024-09-25 173110](https://github.com/user-attachments/assets/b0b411a3-4b3b-463b-9c9b-d0538a67cf71)
+2. K- Mean
 
+![Screenshot 2024-10-12 124424](https://github.com/user-attachments/assets/5aa869a1-9594-40d4-82cf-40b4247467f6)
+![Screenshot 2024-10-12 124438](https://github.com/user-attachments/assets/fa2efb8f-d5b5-4554-8ec7-c623c9a1ad58)
+
+3. Isolation Forest
+
+![Screenshot 2024-10-12 124455](https://github.com/user-attachments/assets/ef678aaa-47e7-4e3b-a3e4-766eecd16d94)
+![Screenshot 2024-10-12 124506](https://github.com/user-attachments/assets/2cf01af0-3fda-4a16-ac4d-ee2128a08954)
+
+4. CNN
+
+![Screenshot 2024-10-12 124521](https://github.com/user-attachments/assets/d08ea1a8-f524-4f90-a84a-96c82699bd66)
+![Screenshot 2024-10-12 124533](https://github.com/user-attachments/assets/92d915c8-5a1c-4551-b2ec-b722c8fd34a0)
