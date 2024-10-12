@@ -6,6 +6,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="28" alt="tensorflow logo"  />
+<img width="12" />
+<img src="https://www.silicon.co.uk/wp-content/uploads/2013/06/nvidia-cuda-1280x720.jpg" height="33" alt="tensorflow logo"  />
 
 ## Prerequisites
 
