@@ -9,18 +9,22 @@
 <img width="12" />
 <img src="https://www.silicon.co.uk/wp-content/uploads/2013/06/nvidia-cuda-1280x720.jpg" height="33" alt="tensorflow logo"  />
 
+## Publication
+
+An article on this project is published on INTERNATIONAL RESEARCH JOURNAL OF ENGINEERING AND TECHNOLOGY - IRJET.<br> Check out the publication [here]().
+
 ## Prerequisites
 
-🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
 
 ## Deployment
 
-To run this project first clone this repository in your jupyter notebook using
+To run this project first clone this repository in your jupyter notebook using:
 
 ```bash
   !git clone https://github.com/username/repository.git
 ```
-Change to the cloned repository's directory using
+Change to the cloned repository's directory using:
 
 ```bash
   %cd repository
@@ -31,12 +35,12 @@ Open the jupyter notebook using:
   !jupyter notebook notebook_name.ipynb
 ```
 
-Install all the required packages 
+Install all the required packages:
 ```bash
   !pip install -r requirements.txt
 ```
 
-Finally **Run** all the cells of the jupyter notebook 
+Finally **Run** all the cells of the jupyter notebook:
 
 
 ## Project Outlook
