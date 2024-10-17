@@ -11,7 +11,7 @@
 
 ## Publication
 
-An article on this project is published on INTERNATIONAL RESEARCH JOURNAL OF ENGINEERING AND TECHNOLOGY - IRJET.<br> Check out the publication [here](https://www.irjet.net/archives/V11/i10/IRJET-V11I1052.pdf).
+An article on this project is published on INTERNATIONAL RESEARCH JOURNAL OF ENGINEERING AND TECHNOLOGY (IRJET).<br> Check out the publication [here](https://www.irjet.net/archives/V11/i10/IRJET-V11I1052.pdf).
 
 ## Prerequisites
 
