@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-🛠️ This credit card fraud detection system uses various models, such as **Isolation Forest, Local Outlier Factor, Support Vector Machine, K-Mean, Logistic Regression, and CNN**, to identify fraudulent transactions within the provided dataset. It then compares their performance using classification report, ROC-AUC curve, and confusion metrics.<br>
+This credit card fraud detection system uses various models, such as **Isolation Forest, Local Outlier Factor, Support Vector Machine, K-Mean, Logistic Regression, and CNN**, to identify fraudulent transactions within the provided dataset. It then compares their performance using classification report, ROC-AUC curve, and confusion metrics.<br>
 <br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -11,11 +11,11 @@
 
 ## Publication
 
-An article on this project is published on INTERNATIONAL RESEARCH JOURNAL OF ENGINEERING AND TECHNOLOGY (IRJET).<br> Check out the publication [here](https://www.irjet.net/archives/V11/i10/IRJET-V11I1052.pdf).
+Published on **INTERNATIONAL RESEARCH JOURNAL OF ENGINEERING AND TECHNOLOGY (IRJET)**. [Paper](https://www.irjet.net/archives/V11/i10/IRJET-V11I1052.pdf).
 
 ## Prerequisites
 
-🚨 Remember to download this dataset and put it in your project folder [Kaggle Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
+Fraud Detection Dataset [Kaggle Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection).
 
 ## Deployment
 
@@ -39,9 +39,6 @@ Install all the required packages:
 ```bash
   !pip install -r requirements.txt
 ```
-
-Finally **Run** all the cells of the jupyter notebook:
-
 
 ## Project Outlook
 <br>
